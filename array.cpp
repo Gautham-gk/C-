@@ -9,10 +9,10 @@ int i;
  for(i=0;i<5;i++)
  {
  	cin>>arr[i];
-	 }
-	cout<<"You Entered:"; 
- i=0;		
- {
+ }		
+ cout<<"You Entered:"; 
+ for(i=0;i<5;i++)
+   {
  	cout<<arr[i]<<endl;
-	 }	
- }
+   }
+}
